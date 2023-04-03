@@ -1,2 +1,3 @@
-# dictionary_mini_project
-Python  exercise/assignment by PLP
+python only
+PLP miniProject
+2/4/2023
